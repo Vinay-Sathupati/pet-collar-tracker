@@ -114,14 +114,11 @@ Open the Serial Monitor at **1152000 baud** to watch the full startup sequence a
 - [ ] OTA firmware update support
 
 ---
-
-## Related Repositories
-
-| Repo | Description |
-|---|---|
-| [`paws-and-tails-backend`](https://github.com/<your-username>/paws-and-tails-backend) | Node.js / Express API — receives location updates, serves the app |
-| [`paws-and-tails-app`](https://github.com/<your-username>/paws-and-tails-app) | React/Vite frontend — live map, pet profiles, geofencing |
-
+ 
+## Related
+ 
+🌐 **[pawsandtailsapp.com](https://pawsandtailsapp.com)** — Web & mobile app for real-time tracking, pet profiles, and geofencing alerts.
+ 
 ---
 
 ## License
